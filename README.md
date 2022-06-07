@@ -1,3 +1,20 @@
-# React.js Redux-Toolkit / Axios
-## Link Demo:
-![Capture del proyecto](https://github.com/rogersaya26/ConsumeApiState-Reqres.in-Redux-Toolkit/blob/master/src/images/ReduxReqres.PNG)
+# Reqres.in !
+
+# DevRogerZen
+
+## Link DEMO:
+
+## https://reqresapi-redux-drogerz.netlify.app/
+
+```mermaid
+
+graph LR
+
+A[REACT.JS] --> B((Axios))
+
+B --> D{Reqres.in}
+
+
+
+
+```
